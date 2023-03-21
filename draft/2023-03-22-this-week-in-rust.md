@@ -34,6 +34,7 @@ and just ask the editors to select the category.
 ### Newsletters
 
 ### Project/Tooling Updates
+* [cudarc and fully GPU accelerated dfdx: ergonomic deep learning now with CUDA support and tensors with mixed compile and runtime dimensions!](https://coreylowman.github.io/2023/03/15/release-0.11.0.html)
 
 ### Observations/Thoughts
 
